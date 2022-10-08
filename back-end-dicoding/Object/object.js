@@ -42,3 +42,16 @@ deleteObjProperty(computer, 'gpu');
 
 // calling the object
 myComp();
+
+
+// Dicoding test
+const restaurant = {
+    name : 'Gege Restaurant',
+    city : 'Denpasar',
+    'favorite drink' : 'Iced Orange',
+    'favorite food' : 'Chicken Geprek',
+    isVegan : false
+}
+
+let name = restaurant.name;
+let favoriteDrink = restaurant['favorite drink'];
