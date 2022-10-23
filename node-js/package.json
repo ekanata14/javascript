@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start" : "node index.js",
-    "tc" : "node tryCatch.js"
+    "tc" : "node tryCatch.js",
+    "async" : "node asynchronous/asynchronous.js"
   },
   "author": "",
   "license": "ISC"
